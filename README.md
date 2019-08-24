@@ -1,2 +1,2 @@
 # Discord-Bot
-Work with Discord.
+Hey there i'm here to make your Fantasie bigger and brighter.
